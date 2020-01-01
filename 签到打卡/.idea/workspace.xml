@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="604228c9-37cd-40b3-a295-04486cb77ec8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VYJmjYjQYDaTru86h0EcoT2qwA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\2018\实践是检验真理的唯一标准\课程设计升级版" />
+      <recent name="C:\Users\lenovo\Desktop\2018\实践是检验真理的唯一标准\课程设计升级版\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.workAttendanceSystem">
+    <configuration name="dataLayer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课程设计升级版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataLayer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="课程设计升级版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="managerWin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="课程设计升级版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/managerWin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="课程设计升级版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="workAttendanceSystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="课程设计升级版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workAttendanceSystem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dataLayer" />
+      <item itemvalue="Python.fr" />
+      <item itemvalue="Python.test_mysql" />
+      <item itemvalue="Python.workAttendanceSystem" />
+      <item itemvalue="Python.managerWin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.workAttendanceSystem" />
+        <item itemvalue="Python.managerWin" />
+        <item itemvalue="Python.test_mysql" />
+        <item itemvalue="Python.dataLayer" />
+        <item itemvalue="Python.fr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="604228c9-37cd-40b3-a295-04486cb77ec8" name="Default" comment="" />
+      <created>1537961520295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537961520295</updated>
+      <workItem from="1577521688661" duration="584000" />
+      <workItem from="1577522859713" duration="4750000" />
+      <workItem from="1577588535982" duration="5203000" />
+      <workItem from="1577604135083" duration="1575000" />
+      <workItem from="1577608010386" duration="1174000" />
+      <workItem from="1577609373742" duration="307000" />
+      <workItem from="1577609765400" duration="589000" />
+      <workItem from="1577667433642" duration="5884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1577524589772">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="207" y="165" key="#com.intellij.ide.util.MemberChooser/0.23.1440.836@0.23.1440.836" timestamp="1577524589772" />
+    <state width="1400" height="188" key="GridCell.Tab.0.bottom" timestamp="1577688717802">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="678" height="188" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1577594710002" />
+    <state width="1400" height="188" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1577688717802" />
+    <state width="1723" height="202" key="GridCell.Tab.0.bottom/48.23.1744.1097@48.23.1744.1097" timestamp="1577506211286" />
+    <state width="1400" height="188" key="GridCell.Tab.0.center" timestamp="1577688717801">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="678" height="188" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1577594710002" />
+    <state width="1400" height="188" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1577688717801" />
+    <state width="1723" height="202" key="GridCell.Tab.0.center/48.23.1744.1097@48.23.1744.1097" timestamp="1577506211285" />
+    <state width="1400" height="188" key="GridCell.Tab.0.left" timestamp="1577688717800">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="678" height="188" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1577594710002" />
+    <state width="1400" height="188" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1577688717800" />
+    <state width="1723" height="202" key="GridCell.Tab.0.left/48.23.1744.1097@48.23.1744.1097" timestamp="1577506211285" />
+    <state width="1400" height="188" key="GridCell.Tab.0.right" timestamp="1577688717802">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="678" height="188" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1577594710002" />
+    <state width="1400" height="188" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1577688717802" />
+    <state width="1723" height="202" key="GridCell.Tab.0.right/48.23.1744.1097@48.23.1744.1097" timestamp="1577506211285" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1577527944637">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.23.1440.836@0.23.1440.836" timestamp="1577527944637" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1577527944637">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.23.1440.836@0.23.1440.836" timestamp="1577527944637" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1577527944636">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.23.1440.836@0.23.1440.836" timestamp="1577527944636" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1577527944637">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.23.1440.836@0.23.1440.836" timestamp="1577527944637" />
+    <state x="0" y="26" width="1125" height="836" key="SettingsEditor" timestamp="1577609733637">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="0" y="23" width="1125" height="836" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1577608411971" />
+    <state x="0" y="26" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1577609733637" />
+    <state x="421" y="210" key="SettingsEditor/48.23.1744.1097@48.23.1744.1097" timestamp="1577424344967" />
+    <state x="34" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1577667437639">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="34" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.836@0.23.1440.836" timestamp="1577608021048" />
+    <state x="34" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.839@0.23.1440.839" timestamp="1577667437639" />
+    <state x="720" y="23" width="720" height="838" key="dock-window-1" timestamp="1577667577538">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="720" y="23" width="720" height="835" key="dock-window-1/0.23.1440.836@0.23.1440.836" timestamp="1577608010790" />
+    <state x="720" y="23" width="720" height="838" key="dock-window-1/0.23.1440.839@0.23.1440.839" timestamp="1577667577538" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/workAttendanceSystem.py</url>
+          <line>604</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/V3_0$managerWin.coverage" NAME="managerWin Coverage Results" MODIFIED="1577523547666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/V3_0$workAttendanceSystem.coverage" NAME="workAttendanceSystem Coverage Results" MODIFIED="1577667570760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
